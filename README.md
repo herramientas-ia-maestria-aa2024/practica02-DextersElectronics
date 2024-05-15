@@ -11,3 +11,9 @@
 
 
 #### Proyecto con fines educativos
+
+
+### Integrantes
+ Juan Yupangui
+ Rafael Castro
+ Hugo Bravo
