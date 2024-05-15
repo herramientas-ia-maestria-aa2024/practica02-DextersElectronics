@@ -14,6 +14,6 @@
 
 
 ### Integrantes
- Juan Yupangui
- Rafael Castro
- Hugo Bravo
+     Juan Yupangui
+     Rafael Castro
+     Hugo Bravo
